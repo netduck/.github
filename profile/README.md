@@ -1,15 +1,32 @@
-
 <div align="center">
-  <h1>NetDuck</h1>
+  <h1>Netduck</h1>
   <img src="https://user-images.githubusercontent.com/75542499/196033254-89f4fef6-33f6-4810-a396-435a484aa31a.png"width="200" height="200"/><br/>
-  <h3>WPA2/WPA3 Analysis</h3>
-  
-  <p>대표적인 무선 프로토콜인 WPA2/WPA3 프로토콜의 취약점에 대한 공격/방어, <br/>WIPS의 메커니즘과 우회에 대해서 연구합니다!</p><br/>
-  <h3>Best of the Best 11th</h3><br/>
-  <img src="https://user-images.githubusercontent.com/75542499/196032403-e6cbc599-00ec-49e4-bd13-735c092837bf.jpg"/><br/>
-  <br/>
-
-  <h3>🤑 Team Members</h3>
+  <p>
+    Netduck은 무선 프로토콜의 보안에 대해 연구하는 팀입니다.
+  </p>
+  <h2>Projects</h2>
+    <img src="https://user-images.githubusercontent.com/75542499/199309063-19363b7c-af53-4f0f-b8c0-7b6d9237f88f.png" width="10%"/>
+    <h3>WPA2/WPA3 Analysis</h3>
+    <p>
+      대표적인 무선 프로토콜인 WPA2/WPA3 프로토콜 취약점에 대한<br/>
+      공격/방어에 대해서 연구합니다.
+    </p>
+    <br/>
+    <img src="https://user-images.githubusercontent.com/75542499/199308256-93c9f760-09bb-420c-8448-031a0b7fad68.png" width="10%"/>
+    <h3>Wireless IPS Analysis</h3>
+    <p>WIPS의 메커니즘과 우회에 대해서 연구합니다.</p>
+    <br/>
+    <img src="https://user-images.githubusercontent.com/75542499/199307843-ca5c4fa4-30d5-4ade-878c-ca2b3be5192e.png" width="10%"/>
+    <h3>Wireless attack tools</h3>
+    <p>무선 환경의 보안성을 테스트 하기 위한 툴을 개발합니다.</p><br/>
+    <img src="https://user-images.githubusercontent.com/75542499/199309968-04d0a141-f872-495c-aee9-1e95864813ba.png" width="10%"/>
+    <h3>Wireless Driver</h3>
+    <p>무선 랜 드라이버 레벨에서의 방어에 대해서 연구합니다.</p>
+    <br/>
+  <h2>Best of the Best 11th</h2><br/>
+  <img src="https://user-images.githubusercontent.com/75542499/196032403-e6cbc599-00ec-49e4-bd13-735c092837bf.jpg"/><br/><br/>
+  <p>본 프로젝트는 차세대 보안리더 양성 프로그램 11기에서 진행된 프로젝트입니다.</p>
+  <h2>⚔ Team Members</h2>
   <h3>정승원</h3>
 
   ![pm](https://img.shields.io/badge/Project%20Manager-ffffff?style=for-the-badge&logo=notion&logoColor=000000)
