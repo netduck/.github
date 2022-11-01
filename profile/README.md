@@ -17,7 +17,7 @@
     <p>WIPS의 메커니즘과 우회에 대해서 연구합니다.</p>
     <br/>
     <img src="https://user-images.githubusercontent.com/75542499/199307843-ca5c4fa4-30d5-4ade-878c-ca2b3be5192e.png" width="10%"/>
-    <h3>Wireless attack tools</h3>
+    <h3>Wireless Attack Tools</h3>
     <p>무선 환경의 보안성을 테스트 하기 위한 툴을 개발합니다.</p><br/>
     <img src="https://user-images.githubusercontent.com/75542499/199309968-04d0a141-f872-495c-aee9-1e95864813ba.png" width="10%"/>
     <h3>Wireless Driver</h3>
