@@ -40,7 +40,7 @@
   <h3>서준원</h3>
 
   ![Python](https://img.shields.io/badge/python-444444?style=for-the-badge&logo=python)
-  ![Vuln](https://img.shields.io/badge/Vulnerability%20Analysis-444444?style=for-the-badge&logo=redhat&logoColor=red)
+  ![Vuln](https://img.shields.io/badge/Vulnerability%20Analysis-444444?style=for-the-badge&logo=redhat&logoColor=white)
 
   ![Junan's GitHub stats](https://github-readme-stats.vercel.app/api?username=junan-98&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura)
 
@@ -48,7 +48,7 @@
 
   ![Python](https://img.shields.io/badge/python-444444?style=for-the-badge&logo=python)
   ![C/C++](https://img.shields.io/badge/c/c++-444444?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-  ![Vuln](https://img.shields.io/badge/Vulnerability%20Analysis-444444?style=for-the-badge&logo=redhat&logoColor=red)
+  ![Vuln](https://img.shields.io/badge/Vulnerability%20Analysis-444444?style=for-the-badge&logo=redhat&logoColor=white)
 
   ![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidenKim-com&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura)
 
