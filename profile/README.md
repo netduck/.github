@@ -23,6 +23,10 @@
     <h3>Wireless Driver</h3>
     <p>무선 랜 드라이버 레벨에서의 방어에 대해서 연구합니다.</p>
     <br/>
+    <img src="https://user-images.githubusercontent.com/75542499/200171468-a134f812-f08e-43eb-a50e-a58928645325.png" width="10%"/>
+    <h3>Wireless Encryption/Decryption</h3>
+    <p>무선 랜에서의 암호화 및 복호화에 대해서 연구합니다.</p>
+    <br/>
   <h2>Best of the Best 11th</h2><br/>
   <img src="https://user-images.githubusercontent.com/75542499/196032403-e6cbc599-00ec-49e4-bd13-735c092837bf.jpg"/><br/><br/>
   <p>본 프로젝트는 차세대 보안리더 양성 프로그램 11기에서 진행된 프로젝트입니다.</p>
