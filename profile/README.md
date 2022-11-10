@@ -28,7 +28,7 @@
     <p>무선 랜에서의 암호화 및 복호화에 대해서 연구합니다.</p>
     <br/>
   <h2>Best of the Best 11th</h2><br/>
-  <img src="https://user-images.githubusercontent.com/75542499/196032403-e6cbc599-00ec-49e4-bd13-735c092837bf.jpg"/><br/><br/>
+  <img src="https://user-images.githubusercontent.com/75542499/201180490-4b17cf8a-e827-4751-bb57-1ba3c50a67e4.png" width="20%"/><br/><br/>
   <p>본 프로젝트는 차세대 보안리더 양성 프로그램 11기에서 진행된 프로젝트입니다.</p>
   <h2>⚔ Team Members</h2>
   <h3>정승원</h3>
